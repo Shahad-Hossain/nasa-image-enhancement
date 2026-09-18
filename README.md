@@ -1,9 +1,9 @@
 # A Human-Centric Logarithmic Framework for Enhancing NASA Mars Imagery
 
-**Authors:** Shahad Hossain & Krystian Gawecki
-**Faculty Mentor:** Dr. Sos Agaian
-**Institution:** College of Staten Island Computer Science Department, Macaulay Honors College at CUNY
-**Timeline:** Spring 2026  
+* **Authors:** Shahad Hossain & Krystian Gawecki
+* **Faculty Mentor:** Dr. Sos Agaian
+* **Institution:** College of Staten Island Computer Science Department, Macaulay Honors College at CUNY
+* **Timeline:** Spring 2026
 
 ---
 
